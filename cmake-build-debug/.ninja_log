@@ -1,0 +1,12 @@
+# ninja log v5
+211	1889	7243505776585094	CMakeFiles/praktikum_10_1.dir/MyCanvas.cpp.obj	5eb1c76466bf8129
+5	1954	7243505777273141	CMakeFiles/praktikum_10_1.dir/main.cpp.obj	f046a58cf57d224b
+1955	2606	7243505783714562	praktikum_10_1.exe	4e486a434b54a91b
+61	2923	7243506915736027	CMakeFiles/praktikum_10_1.dir/MyCanvas.cpp.obj	5eb1c76466bf8129
+28	3001	7243506916466526	CMakeFiles/praktikum_10_1.dir/main.cpp.obj	f046a58cf57d224b
+37	3886	7243507013986959	CMakeFiles/praktikum_10_1.dir/MyCanvas.cpp.obj	5eb1c76466bf8129
+12	4234	7243507027626185	CMakeFiles/praktikum_10_1.dir/main.cpp.obj	f046a58cf57d224b
+26	4426	7243507029798341	CMakeFiles/praktikum_10_1.dir/test_MyCanvas.cpp.obj	e9579d064679a68d
+4428	5287	7243507038435659	praktikum_10_1.exe	599e05f367551aa5
+14	1043	7243508481533762	CMakeFiles/praktikum_10_1.dir/MyCanvas.cpp.obj	5eb1c76466bf8129
+1045	1429	7243508485391317	praktikum_10_1.exe	599e05f367551aa5
